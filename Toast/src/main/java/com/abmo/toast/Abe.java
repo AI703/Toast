@@ -2,7 +2,7 @@ package com.abmo.toast;
 
 import android.content.Context;
 
-public class Toast {
+public class Abe {
 
     public static void show(Context context,String message,int duration){
 
